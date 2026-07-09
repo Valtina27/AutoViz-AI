@@ -1,19 +1,19 @@
 # AI-Based Interactive Data Visualization Web Application
 
-## Overview
+## OVERVIEW
 
 This project is an **AI-powered web application** that automatically converts raw data from multiple file formats (Excel, Word, Text) into beautiful, interactive visualizations with multiple theme options and diverse chart types.
 
-## Features
+## FEATURES
 
-### 🎯 Core Capabilities
+###  Core Capabilities
 - **Multi-Format Data Extraction**: Supports Excel (.xlsx, .xls), Word (.docx), and Text files (.txt, .csv)
 - **Automated Data Cleaning**: Handles missing values, data type detection, and preprocessing
 - **Intelligent Chart Selection**: AI automatically recommends and generates appropriate chart types
 - **Multiple Themes**: 6 professional themes (Plotly, Plotly Dark, Seaborn, GGPlot2, Simple White, Presentation)
 - **Interactive Dashboards**: All charts are fully interactive with zoom, pan, and hover tooltips
 
-### 📊 Chart Types
+###  Chart Types
 - **Bar Charts**: Compare categorical data
 - **Pie Charts**: Show proportions and distributions
 - **Line Charts**: Display trends over time
